@@ -45,4 +45,5 @@ Graduando em Engenharia/Sistemas de Inteligência Artificial na FIAP e Desenvolv
 
 ### 🤝 Conecte-se comigo
 - 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario) <!-- Substitua pelo seu link real -->
-- ✉️ Seu E-mail de contato comercial
+- ✉️ tenorioleandro22@gmail.com
+- 🎓 https://www.leandrotenorio.site/
