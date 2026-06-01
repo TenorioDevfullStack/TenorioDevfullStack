@@ -5,9 +5,9 @@ Graduando em Engenharia/Sistemas de Inteligência Artificial na FIAP e Desenvolv
 ---
 
 ### 🚀 O que eu faço
-- 💻 **Full Stack Development:** Construção de aplicações modernas com JavaScript, Python e foco em PWAs.
-- 🤖 **IA & Automação:** Desenvolvimento de ecossistemas inteligentes, integração de LLMs e automação de workflows (n8n, Make).
-- 🛠️ **Soluções Práticas:** Experiência técnica aplicada para resolver problemas reais de mercado e gestão.
+// Olá! Sou Leandro Tenório, estudante de Inteligência Artificial na FIAP e em transição de carreira da área de elétrica e eletrônica para a área de Dados. Combino base sólida em Ciência de Dados, estatística, Python e Machine Learning com vivência prática na construção de aplicações web — do front ao back, incluindo modelagem e integração de bancos de dados.
+
+// Tenho perfil orientado à resolução de problemas reais, com projetos hands-on para empresas parceiras (Challenges e Global Solution da FIAP). Busco oportunidades em Dados — análise, engenharia ou ciência de dados.
 
 ---
 
