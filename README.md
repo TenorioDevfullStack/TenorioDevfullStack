@@ -1,6 +1,6 @@
 # Olá, eu sou o Leandro Tenório da Silva! 👋
 
-Graduando em Engenharia/Sistemas de Inteligência Artificial na FIAP e Desenvolvedor Full Stack. Sou focado em construir soluções robustas, integrar APIs e automatizar processos de negócios para gerar eficiência real.
+Graduando em Inteligência Artificial na FIAP e Desenvolvedor Full Stack. Sou focado em construir soluções robustas, integrar APIs e automatizar processos de negócios para gerar eficiência real.
 
 ---
 
